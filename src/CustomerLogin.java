@@ -1,7 +1,3 @@
-/* CSC32200-E  Online Restaurant Ordering System Project
-   Shirong Zheng      Yuhao Liu     Qiuhan Piao
- */
-
 import javax.swing.JButton;
 import javax.swing.JDialog;
 import java.awt.*;

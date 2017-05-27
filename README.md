@@ -7,6 +7,6 @@ Only the enter information match the database.
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/CustomerLogin.gif)  
 
 ## Delivery Map
-It directly used the Google Map API.  [Click Here](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/GoogleMapWithSearchAndDirection.html)
+It directly used the Google Map API.  [Click Here](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/GoogleMapWithSearchAndDirection.html)  
 -[x] Complete
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/Map.gif)

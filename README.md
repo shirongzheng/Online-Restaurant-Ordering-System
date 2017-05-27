@@ -1,5 +1,5 @@
 # Online Restaurant Ordering System
-This is the restaurant ordering simulator, which develope based on the JAVA language. I suggest you use the mySQL workbench to import my database.  
+This is the restaurant ordering simulator, which develope based on the JAVA language. I suggest you to use the mySQL Workbench to import my database.  
 Those below show the simple and basic features of simulator.
 
 # Customer Login

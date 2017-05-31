@@ -6,6 +6,8 @@ Those below show the simple and basic features of simulator.
 Only the enter information match the database.
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/CustomerLogin.gif)  
 
+## Ordering Food  
+
 ## Delivery Map
 It directly used the Google Map API.  [Click Here](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/GoogleMapWithSearchAndDirection.html)  
 - [x] Complete  

@@ -14,6 +14,11 @@ Any one could retrieve food information depend on the corresponding number.
 Any registered customer could ordering food from this system, then it will appeal in the manager's site.
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/OrderingFood.gif)  
 
+## Review Food  
+Just rate the stars or leave comments
+![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/ReviewFood.gif)  
+
+
 ## Delivery Map
 It directly used the Google Map API.  [Click Here](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/GoogleMapWithSearchAndDirection.html)  
 - [x] Complete  

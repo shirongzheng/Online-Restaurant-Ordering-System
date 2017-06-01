@@ -7,7 +7,7 @@ Only the enter information match the database.
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/CustomerLogin.gif)  
 
 ## Retrieve Food  
-Any one could retrieve food information depend on the corresponding number  
+Any one could retrieve food information depend on the corresponding number.  
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/RetrieveFood.gif)
 
 ## Ordering Food  

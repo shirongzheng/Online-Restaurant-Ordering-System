@@ -4,7 +4,7 @@ Those below show the simple and basic features of simulator.
 
 ## Customer Login
 Only the enter information match the database.  
-![](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/lost.wav)
+!audio[](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/lost.wav)
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/CustomerLogin.gif)  
 
 ## Retrieve Food  

@@ -3,8 +3,8 @@ This is the restaurant ordering simulator, which develope based on the JAVA lang
 Those below show the simple and basic features of simulator.
 
 ## Customer Login
-Only the enter information match the database.
-![](lost.wav)
+Only the enter information match the database.  
+![](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/lost.wav)
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/CustomerLogin.gif)  
 
 ## Retrieve Food  

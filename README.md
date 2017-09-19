@@ -19,7 +19,7 @@ Just rate the stars or leave comments
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/ReviewFood.gif)  
 
 ## Manager Site
-For Restaurant Manger Working Site 
+For Restaurant Manger Work Site 
 ![img](https://github.com/shirongzheng/Online-Restaurant-Ordering-System/blob/master/GIF/Manager.gif)
 
 ## Delivery Map

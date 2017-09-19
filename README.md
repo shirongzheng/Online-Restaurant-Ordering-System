@@ -18,6 +18,9 @@ Any registered customer could ordering food from this system, then it will appea
 Just rate the stars or leave comments
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/ReviewFood.gif)  
 
+## Manager Site
+For Restaurant Manger Working Site [Click Here](wwww.google.com)
+![img](https://github.com/shirongzheng/Online-Restaurant-Ordering-System/blob/master/GIF/Manager.gif)
 
 ## Delivery Map
 It directly used the Google Map API.  [Click Here](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/GoogleMapWithSearchAndDirection.html)  

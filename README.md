@@ -3,15 +3,15 @@ This is the restaurant ordering simulator, which develope based on the JAVA lang
 Those below show the simple and basic features of simulator.
 
 ## Customer Login
-Only the enter information match the database.  
+Only the enter information match the database  
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/CustomerLogin.gif)  
 
 ## Retrieve Food  
-Any one could retrieve food information depend on the corresponding number.  
+Any one could retrieve food information depend on the corresponding number  
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/RetrieveFood.gif)
 
 ## Ordering Food  
-Any registered customer could ordering food from this system, then it will appeal in the manager's site.
+Any registered customer could ordering food from this system, then it will appeal in the manager's site
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/OrderingFood.gif)  
 
 ## Review Food  
@@ -23,7 +23,7 @@ For Restaurant Manger Working Site
 ![img](https://github.com/shirongzheng/Online-Restaurant-Ordering-System/blob/master/GIF/Manager.gif)
 
 ## Delivery Map
-It directly used the Google Map API.  [Click Here](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/GoogleMapWithSearchAndDirection.html)  
+It directly used the Google Map API  [Click Here](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/src/GoogleMapWithSearchAndDirection.html)  
 - [x] Complete  
 - [x] Easy to achive  
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/Map.gif)

@@ -14,6 +14,10 @@ Any one could retrieve food information depend on the corresponding number
 Any registered customer could ordering food from this system, then it will appeal in the manager's site
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/OrderingFood.gif)  
 
+## Deposit Money To Account
+Registered customers can deposit moeny to their accounts
+![img](https://github.com/shirongzheng/Online-Restaurant-Ordering-System/blob/master/GIF/Deposit.png)
+
 ## Review Food  
 Just rate the stars or leave comments
 ![img](https://github.com/shirongzheng/CSC322-Online-Restaurant-Ordering-System/blob/master/GIF/ReviewFood.gif)  
